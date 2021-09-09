@@ -166,10 +166,18 @@
 			isa = PBXGroup;
 			children = (
 				360AC93826C688280074898A /* CustomeViews */,
-				360AC90026C687D60074898A /* ViewController.swift */,
-				360AD91526EA1EAC0016213D /* SecondVCViewController.swift */,
+				360AD92C26EA771C0016213D /* ViewControllers */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		360AD92C26EA771C0016213D /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				360AD91526EA1EAC0016213D /* SecondVCViewController.swift */,
+				360AC90026C687D60074898A /* ViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
